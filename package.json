@@ -1,0 +1,17 @@
+{
+  "name": "konva-react-import-issue",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "konva": "^8.0.1",
+    "next": "10.2.3",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-konva": "^17.0.2-4"
+  }
+}
